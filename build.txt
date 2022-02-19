@@ -1,5 +1,5 @@
 displayName = Calamity Malice Drops without Malice Mode
-author = IDGCaptainRussia94
+author = IDGCaptainRussia
 version = 0.1
 modReferences = CalamityMod
 hideCode = true
