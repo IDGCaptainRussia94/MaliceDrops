@@ -1,6 +1,6 @@
 displayName = Calamity Malice Drops without Malice Mode
 author = IDGCaptainRussia
-version = 1.00
+version = 1.01
 modReferences = CalamityMod
 hideCode = true
 homepage = https://discord.gg/aGy34Xw

@@ -61,7 +61,6 @@ namespace MaliceDrops
                 }
                 else
                 {
-					Main.NewText("mal test");
 					CalamityMod.World.CalamityWorld.malice = true;
 					orig(npc);
 					CalamityMod.World.CalamityWorld.malice = false;
@@ -76,7 +75,6 @@ namespace MaliceDrops
 				}
 				else
 				{
-					Main.NewText("mal test pre");
 					CalamityMod.World.CalamityWorld.malice = true;
 					bool returner = orig(npc);
 					CalamityMod.World.CalamityWorld.malice = false;
