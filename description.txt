@@ -1,0 +1,1 @@
+This makes, well, makes Malice mode drops, drop from enemies without Malice mod enabled, it does nothing when Malice mode is enabled

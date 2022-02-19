@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTeWh0U0c4rioXtqLa5w+TcdjlN71VjUKStfUqZD6ZSBsHH5nJgZ0GhQOhzRORVPajqUxBe1CFxk3DlwnZzQNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IDGCaptainRussia94\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MaliceDrops\\MaliceDrops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IDGCaptainRussia94\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

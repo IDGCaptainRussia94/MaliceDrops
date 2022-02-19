@@ -1,0 +1,8 @@
+displayName = Calamity Malice Drops without Malice Mode
+author = IDGCaptainRussia94
+version = 0.1
+modReferences = CalamityMod
+hideCode = true
+homepage = https://discord.gg/aGy34Xw
+hideResources = true
+includeSource = true
